@@ -1,0 +1,258 @@
+@media only screen and (min-width: 425px) and (max-width: 800px) {
+    .Navbar {
+        justify-content: center;
+      }
+      .Logo {
+        margin-top: 30px;
+        width: 200px;
+      }
+      .container {
+        width: 80%;
+      }
+    
+      .FontConatiner {
+        align-items: center;
+        width: 100%;
+      }
+    
+      .CONTENT {
+        flex-direction: column;
+        justify-content: center;
+        width: 100%;
+        height: 75%;
+      }
+      .illustration {
+        margin-top: 100px;
+        width: 250px;
+      }
+      .subHading {
+        margin-top: 50px;
+        font-size: 15px;
+        text-align: center;
+      }
+    
+      .cenetr_div textarea{
+        font-size: 15px;
+      }
+      .btn-1 span {
+        padding: 15px 60px;
+      }
+    
+      /* PAGE2 */
+      .Number_Conatiner{
+        width: 80%;
+      }
+      
+      .Number_Changer h1{
+       
+        font-size: 25px;
+       
+    }
+    
+    .Number_Changer h3{
+     
+      font-size: 15px;
+      font-weight: 600;
+     
+    }
+    
+    .testi-text{
+      width: 100%;
+      height: 20vh;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      flex-direction: column;
+    }
+    
+    .testi-text h1{
+      font-size: 15px;
+    }
+    
+    .testi-text h3{
+      padding: 10px;
+      font-size: 10px;
+    }
+    
+    
+    .conatiner_image_background_Blur {
+      height: 25vh;
+     
+      }
+    
+    .conatiner_image_background2_Blur {
+      height: 25vh;
+    }
+    
+    .conatiner_image_background1 {
+      height: 25vh;
+      
+      
+    }
+    
+    .conatiner_image_background2 {
+      height: 25vh;
+      
+      
+    }
+    
+    
+    
+    
+    .headingCarousel{
+      color: #031121;
+      font-weight: bolder;
+      margin: 0;
+      font-size: 20px;
+    }
+    
+    #partner-section .item {
+     
+      height: 80px;
+      padding: 20px;
+      
+    }
+    
+    #partner-section .item img {
+      margin: 0 auto;
+      width: 130px;
+    }
+    
+    
+    
+    
+    /* FORM */
+    .FromConatiner{
+      width: 80%;
+      padding-top: 30px;
+      padding-bottom: 30px;
+    }
+    
+    .cenetr_div {
+      
+      
+      width: 80% !important;
+      margin: auto;
+    }
+    
+    .signupForm h2 {
+      letter-spacing: 3px;
+      font-size: 20px;
+       color: white;
+      margin-bottom: 100px;
+      padding-bottom: 10px;
+      
+       
+    }
+    .MainCardConatiner{
+     
+      margin-top: 30px;
+      
+    }
+    
+    
+    
+    .inputFields {
+      margin: 10px 0;
+      font-size: 15px;
+      padding: 10px;
+      width: 95%;
+      border: 2px solid #ffffff;
+      border-top: none;
+      border-left: none;
+      border-right: none;
+     color: white;
+      outline: none;
+      
+    }
+    
+    .inputFields::placeholder{
+     
+      color: rgb(245, 245, 245);
+      opacity: 0.3; 
+      font-size: 14px;
+    }
+    
+    .textarea{
+      font-size: 15px;
+    }
+    
+    .conatiner_image_sider{
+       width: 80%;
+    }
+    
+    
+    /* SERVICE PAGE */
+    .ServiceContainer{
+      width: 80%;
+      padding-top: 20px;
+      padding-bottom: 20px;
+      height: 320vh !important;
+    }
+    
+    .theme-title h2{
+      letter-spacing: 3px;
+      font-size: 30px;
+      margin: 0;
+      margin-bottom: 10px;
+      
+    }
+    
+    .theme-title p{
+      letter-spacing: 1px;
+      font-size: 15px;
+      color: #ffffff;
+      text-align:inherit;
+      margin: 0;
+      
+    }
+    
+    
+    .cardConatiner{
+      width: 100%;
+      
+    }
+    
+    .ImageSliderConatiner{
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      margin-top: 10px;
+      margin-bottom: 10px;
+      align-items: center;
+    }
+    
+    .Heading{
+      
+     
+       font-size: 20px;
+       line-height: 1;
+       font-weight: 500;
+       margin: 0;
+       text-align: center;
+       margin-bottom: 10px;
+    }
+    
+    .subHading{
+     
+        font-size: 17px;
+        line-height: 1;
+        font-weight: bold;
+        margin: 0;
+        
+        
+        
+    }
+    
+    .img{
+      width: 300px !important;
+      margin-left: 50px;
+    }
+    
+    .p-3{
+      padding: 10px;
+      font-size: 15px;
+      text-align: justify;
+    }
+       
+};

@@ -1,0 +1,118 @@
+@media only screen and (min-width: 800px) and (max-width: 1470px) {
+  .Navbar {
+    justify-content: center;
+  }
+  .Logo {
+    margin-top: 30px;
+    width: 300px;
+  }
+
+  .container {
+    width: 80%;
+  }
+
+  .CONTENT {
+    flex-direction: column;
+    justify-content:space-evenly;
+    width: 100%;
+    height: 75%;
+  }
+
+  .FontConatiner {
+    align-items: center;
+    width: 80%;
+    
+  }
+
+  .Number_Changer h1{
+    font-size: 40px;
+  }
+
+  .ImageSliderConatiner{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    align-items: center;
+    width: 100%;
+    margin: auto;
+  }
+
+  .Heading{
+  
+ 
+    
+    line-height: 1;
+    font-weight: 500;
+    margin: 0;
+    text-align: center;
+    margin-bottom: 0px;
+ }
+
+ .img{
+  width: 600px !important;
+  margin-left: 0px;
+}
+
+ .ServiceContainer{
+  width: 80%;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  height: 190vh !important;
+}
+ 
+ .subHading{
+  
+  text-align: center;
+     line-height: 1;
+     font-weight: bold;
+     margin: 0;
+     margin-bottom: 15px;
+     
+ }
+
+  .illustration {
+    margin-top: 10px;
+    width: 450px;
+  }
+  .subHading {
+    font-size: 20px;
+  }
+  .btn-1 span {
+    padding: 15px 60px;
+  }
+
+  #partner-section .item {
+ 
+    height: 90px;
+    padding: 20px;
+    
+  }
+  
+  #partner-section .item img {
+    margin: 0 auto;
+    width: 120px;
+  }
+
+  .cenetr_div {
+    width: 60vw;
+  }
+
+
+  .cardConatiner{
+    width: 40%;
+  }
+   
+
+  .MainCardConatiner{
+    justify-content: space-evenly;
+  }
+  .testi-text h1{
+    font-size: 20px;
+  }
+  .img{
+    width: 300px !important;
+  }
+
+}
