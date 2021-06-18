@@ -20,12 +20,13 @@
 
   .CONTENT {
     flex-direction: column;
-    justify-content: center;
-    width: 100%;
+    justify-content: space-evenly;
+    align-items: center;
+     width: 100%;
     height: 75%;
   }
   .illustration {
-    margin-top: 100px;
+    
     width: 250px;
   }
   .subHading {
@@ -38,7 +39,7 @@
     font-size: 15px;
   }
   .btn-1 span {
-    padding: 15px 60px;
+    padding: 10px 40px;
   }
 
   /* PAGE2 */
@@ -69,7 +70,7 @@
 }
 
 .testi-text h1{
-  font-size: 15px;
+  font-size: 12px;
 }
 
 .testi-text h3{
@@ -190,7 +191,7 @@
   width: 80%;
   padding-top: 20px;
   padding-bottom: 20px;
-  height: 380vh !important;
+  
 }
 
 .theme-title h2{
@@ -203,7 +204,7 @@
 
 .theme-title p{
   letter-spacing: 1px;
-  font-size: 15px;
+  font-size: 12px;
   color: #ffffff;
   text-align:inherit;
   margin: 0;
@@ -238,7 +239,7 @@
 
 .subHading{
  
-    font-size: 17px;
+    font-size: 15px;
     line-height: 1;
     font-weight: bold;
     margin: 0;
@@ -248,18 +249,34 @@
 }
 
 .img{
-  width: 250px !important;
-  margin-left: 50px;
+  width: 240px !important;
+  margin-left: 20px;
 }
 
 .p-3{
   padding: 10px;
-  font-size: 15px;
+  font-size: 12px;
   text-align: justify;
 }
    
 
+.single-service-content .icon-heading .icon{
+  font-size: 30px;
+}
 
+.single-service-content .icon-heading h6{
+  font-size: 20px;
+  margin-top: 10px;
+}
+.p .secend{
+  font-size: 12px;
+}
+.p .first{
+  font-size: 12px;
+}
 
+.single-service-content{
+  padding: 50px 10px 10px 10px;
+}
 
 }

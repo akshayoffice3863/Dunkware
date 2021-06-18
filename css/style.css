@@ -71,7 +71,7 @@ video {
   justify-content: center;
   flex-direction: column;
   animation: text 3s 1;
-  width: 50%;
+  width: 40% !important;
 }
 .subHading {
   color: white;
@@ -171,7 +171,7 @@ video {
 }
 
 .illustration {
-  width: 500px;
+  width: 460px;
   animation: up-down 2s ease-in-out infinite alternate-reverse both;
 }
 
@@ -439,14 +439,11 @@ background-position: -24px -53px;
   padding-top: 30px;
   padding-bottom: 30px;
   position: relative;
-  height: 120vh !important;
+  z-index: 1;
   text-align: center;
 }
-@media only screen and (min-width: 2000px) and (max-width: 2560px) {
-  .ServiceContainer{
-      height: 60vh ;
-   }
-};
+
+
 
 
 
@@ -477,8 +474,7 @@ background-position: -24px -53px;
   margin-top: 70px;
   align-items: center;
   justify-content: flex-start;
-  position:absolute;
-  z-index: 999;
+  
 }
 
 

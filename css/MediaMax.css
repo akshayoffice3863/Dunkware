@@ -1,4 +1,4 @@
-@media only screen and (min-width: 800px) and (max-width: 1470px) {
+@media only screen and (min-width: 770px) and (max-width: 1470px) {
   .Navbar {
     justify-content: center;
   }
@@ -59,7 +59,7 @@
   width: 80%;
   padding-top: 20px;
   padding-bottom: 20px;
-  height: 210vh !important;
+ 
 }
  
  .subHading{
