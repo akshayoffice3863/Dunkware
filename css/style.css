@@ -192,7 +192,7 @@ video {
   border: 2px solid rgb(255, 255, 255);
   position: absolute;
   left: 50%;
-  bottom: 50px;
+  bottom: 70px;
   border-radius: 50px;
   cursor: pointer;
 }
