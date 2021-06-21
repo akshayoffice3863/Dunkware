@@ -15,14 +15,14 @@
 
   .FontConatiner {
     align-items: center;
-    width: 100%;
+    width: 100% !important;
   }
 
   .CONTENT {
     flex-direction: column;
     justify-content: space-evenly;
     align-items: center;
-     width: 100%;
+     width: 100% !important;
     height: 75%;
   }
   .illustration {

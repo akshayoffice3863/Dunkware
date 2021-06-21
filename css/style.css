@@ -71,7 +71,7 @@ video {
   justify-content: center;
   flex-direction: column;
   animation: text 3s 1;
-  width: 40% !important;
+  width: 50% !important;
 }
 .subHading {
   color: white;

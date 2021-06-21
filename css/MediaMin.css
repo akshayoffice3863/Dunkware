@@ -1,4 +1,4 @@
-@media only screen and (min-width: 426px) and (max-width: 770px) {
+@media only screen and (min-width: 426px) and (max-width: 1024px) {
     .Navbar {
         justify-content: center;
       }
@@ -12,7 +12,7 @@
     
       .FontConatiner {
         align-items: center;
-        width: 100%;
+        width: 80% !important;
       }
     
       .CONTENT {
@@ -23,7 +23,7 @@
       }
       .illustration {
         
-        width: 250px;
+        width: 350px;
       }
       .subHading {
         margin-top: 50px;
@@ -219,7 +219,7 @@
       flex-direction: column;
       justify-content: center;
       margin-top: 10px;
-      margin-bottom: 10px;
+      margin-bottom: 50px;
       align-items: center;
     }
     
